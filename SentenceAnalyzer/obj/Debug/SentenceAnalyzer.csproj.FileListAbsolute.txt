@@ -1,0 +1,7 @@
+C:\Users\murat.yilmaz\Desktop\SentenceAnalyzer\SentenceAnalyzer\SentenceAnalyzer\bin\Debug\SentenceAnalyzer.exe.config
+C:\Users\murat.yilmaz\Desktop\SentenceAnalyzer\SentenceAnalyzer\SentenceAnalyzer\bin\Debug\SentenceAnalyzer.exe
+C:\Users\murat.yilmaz\Desktop\SentenceAnalyzer\SentenceAnalyzer\SentenceAnalyzer\bin\Debug\SentenceAnalyzer.pdb
+C:\Users\murat.yilmaz\Desktop\SentenceAnalyzer\SentenceAnalyzer\SentenceAnalyzer\obj\Debug\SentenceAnalyzer.csprojAssemblyReference.cache
+C:\Users\murat.yilmaz\Desktop\SentenceAnalyzer\SentenceAnalyzer\SentenceAnalyzer\obj\Debug\SentenceAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\murat.yilmaz\Desktop\SentenceAnalyzer\SentenceAnalyzer\SentenceAnalyzer\obj\Debug\SentenceAnalyzer.exe
+C:\Users\murat.yilmaz\Desktop\SentenceAnalyzer\SentenceAnalyzer\SentenceAnalyzer\obj\Debug\SentenceAnalyzer.pdb
